@@ -42,16 +42,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadityajain3128&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aadityajain3128&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aadityajain3128&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aadityajain3128&theme=tokyonight">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aadityajain3128&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityajain3128&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aadityajain3128&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadityajain3128&theme=tokyonight">
 </p>
 
 ---
