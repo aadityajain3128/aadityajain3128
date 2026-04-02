@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7A917&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Aaditya+Jain+👋;Full-Stack+Dev+🚀+%7C+ML+Enthusiast+🤖;Building+cool+things+with+code+%26+AI!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Aaditya+Jain+%F0%9F%91%8B;CSE+AI+%26+ML+%40+SRM+IST;Full-Stack+Dev+%F0%9F%9A%80;ML+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -49,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadityajain3128&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=aadityajain3128&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
